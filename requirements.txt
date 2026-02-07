@@ -1,0 +1,4 @@
+mkdocs
+mkdocs-material
+# PyYAML suele venir, pero por si acaso
+PyYAML
